@@ -42,7 +42,7 @@ Here we go.
 |13/02/2025| [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) | [link](https://github.com/horseee/CoT-Valve) | / |
 |31/01/2025| [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201) | [link](https://github.com/shawnricecake/Heima) | / |
 |17/12/2024| [Compressed Chain of Thought: Efficient Reasoning Through Dense Representations](https://arxiv.org/abs/2412.13171) | / | / |
-|09/12/2024| [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769) | [link]() | / |
+|09/12/2024| [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769) | [link](https://github.com/facebookresearch/coconut) | / |
 |23/03/2024| [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838) | / | / | 
 
 
